@@ -1,7 +1,9 @@
 # LoginTest
 
 To run the script:
-> npm test
+```
+npm test
+```
 
 This Selenium script is an automated login test:
 - Opens the login page
