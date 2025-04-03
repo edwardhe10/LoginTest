@@ -1,6 +1,7 @@
 # LoginTest
 
-Run **npm test** to run the script.
+To run the script:
+> npm test
 
 This Selenium script is an automated login test:
 - Opens the login page
